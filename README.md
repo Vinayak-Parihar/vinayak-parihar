@@ -85,8 +85,6 @@ Software Developer Intern @ DvijSoftware Private Limited          Apr 2025 – J
 **🕶️ AR Web Application** — an in-browser Augmented Reality experience letting users view and interact with 3D models through their device camera, no app install required.
 `React.js` · `Node.js` · `Three.js` · `A-Frame` · `WebXR`
 
-> Replace this section with a link to the repo/live demo once it's public: `[Live Demo](#) · [Source](#)`
-
 ---
 
 ### 📊 GitHub Stats
